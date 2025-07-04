@@ -39,3 +39,9 @@ CollabBook is a **web-based collaborative Kanban board** that allows multiple us
 
 ### 🔧 Backend Setup
 npm install
+
+###     Live Deployment Links
+
+--- Frontend => https://collab-board-one.vercel.app/
+
+--- Backend => https://collab-board-1315.onrender.com/
