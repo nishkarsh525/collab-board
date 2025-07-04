@@ -2,9 +2,9 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
-  generator: 'v0.dev',
+  title: 'CollabSpace',
+  description: 'A collaborative space for real-time project management and team collaboration',
+  generator: 'Next.js',
 }
 
 export default function RootLayout({

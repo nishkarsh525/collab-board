@@ -1,41 +1,5 @@
 [
   {
-    "id": "1751554123615s3y59do7w",
-    "title": "gym",
-    "description": "",
-    "status": "done",
-    "priority": "high",
-    "assignedTo": "17515540961630pu11cher",
-    "createdBy": "17515540961630pu11cher",
-    "createdAt": "2025-07-03T14:48:43.614Z",
-    "updatedAt": "2025-07-03T21:08:26.151Z",
-    "version": 21
-  },
-  {
-    "id": "1751576811996waojbxu3i",
-    "title": "hal",
-    "description": "",
-    "status": "done",
-    "priority": "medium",
-    "assignedTo": "17515540961630pu11cher",
-    "createdBy": "17515540961630pu11cher",
-    "createdAt": "2025-07-03T21:06:51.996Z",
-    "updatedAt": "2025-07-04T17:25:12.108Z",
-    "version": 6
-  },
-  {
-    "id": "1751576938985q0h4ub585",
-    "title": "www",
-    "description": "",
-    "status": "done",
-    "priority": "medium",
-    "assignedTo": "1751649854671dyjonin1x",
-    "createdBy": "17515540961630pu11cher",
-    "createdAt": "2025-07-03T21:08:58.985Z",
-    "updatedAt": "2025-07-04T17:24:20.434Z",
-    "version": 3
-  },
-  {
     "id": "1751650372357eu6v5x4n0",
     "title": "helloi",
     "description": "",
@@ -46,5 +10,17 @@
     "createdAt": "2025-07-04T17:32:52.357Z",
     "updatedAt": "2025-07-04T17:34:33.466Z",
     "version": 4
+  },
+  {
+    "id": "1751655770055rlsjp6xfn",
+    "title": "task",
+    "description": "",
+    "status": "todo",
+    "priority": "medium",
+    "assignedTo": null,
+    "createdBy": "1751649854671dyjonin1x",
+    "createdAt": "2025-07-04T19:02:50.055Z",
+    "updatedAt": "2025-07-04T19:02:50.055Z",
+    "version": 1
   }
 ]
